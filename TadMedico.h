@@ -14,12 +14,13 @@ struct TpMedico{
 	TpPaciente *pac;
 };
 
-TpMedico *NovoMed(int id){
+TpMedico *NovoMed(){
+    int auxid = 1;
     TpMedico *med = new TpMedico;
     med->prox = NULL;
     med->ant = NULL;
     med->pac = NULL;
-    med->id = id;
+    med->id = auxid++;
     med->ocupado = 0;
     med->tempomed = 0;
     med->total = 0;
@@ -27,6 +28,38 @@ TpMedico *NovoMed(int id){
     return med;
 }
 
+TpMedico *InserirMedico(TpMedico *med){
+    TpMedico *no = NovoMed();
+    if(med == NULL){
+        med = no;
+    }else{
+        TpMedico *p = med;
+        while(p->prox != NULL) //busca ultimo elemento
+            p= p->prox;
+        if(p->prox == NULL){
+            no->ant = p;
+            p->prox = no;
+        }
+    }
+    return med;
+}
 
+void ExibirMedicos(TpMedico *inicio){
+    if(inicio == NULL){
+        printf("Lista vazia.\n");
+        return;
+    }
+
+    TpMedico *p = inicio;
+    printf("Medicos na lista:\n");
+
+    while(p != NULL){
+        printf("ID: %d | Ocupado: %d | Total Atendidos: %d\n",
+                p->id, p->ocupado, p->total);
+        p = p->prox;
+    }
+
+    printf("\n");
+}
 
 #endif

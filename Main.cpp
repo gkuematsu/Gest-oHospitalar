@@ -42,7 +42,22 @@ void FormPrincipal(void) {
 }
 
 int main(void){
-    TpDesc desc;
+    TpMedico *lista = NULL;
+    
+    printf("Inserindo 3 medicos...\n");
+    lista = InserirMedico(lista);
+    lista = InserirMedico(lista);
+    lista = InserirMedico(lista);
+    
+    ExibirMedicos(lista);
+    
+    printf("Inserindo mais 2...\n");
+    lista = InserirMedico(lista);
+    lista = InserirMedico(lista);
+    
+    ExibirMedicos(lista);
+    getche();
+    return 0;
 }
 
 
