@@ -8,6 +8,38 @@
 #include "TadMedico.h"
 #include "TadPaciente.h"
 
+void LerArquivo(TpDesc &d,char arquivo[30]){
+    FILE *arq = fopen(arquivo,"r");
+    if(arq == NULL)
+        printf("Erro ao abrir arquivo\n");
+   else{
+        TpPaciente reg;
+        fscanf(arq, "%[^;];%d;%[^;];%[^;];%s\n",reg.classificacao,&reg.tempo,reg.nome,reg.queixa,reg.data);
+        while(!feof(arq)){
+            int sorteio = rand() % 2;
+            if(sorteio == 1){
+                TpPaciente *pac = NovoPaciente(reg);
+                if(strcmp(reg.classificacao,"Vermelho") == 0)
+                    VermelhoFim(d,pac);
+                else if(strcmp(reg.classificacao,"Amarelo") == 0)
+                    AmareloFim(d,pac);
+                    else
+                    VerdeFim(d,pac);
+                fscanf(arq, "%[^;];%d;%[^;];%[^;];%s\n",reg.classificacao,&reg.tempo,reg.nome,reg.queixa,reg.data);  
+            }     
+        }
+   }   
+    fclose(arq);
+}
+
+void Simular(TpDesc &d, TpMedico *lista, char arquivo[30], int tempomax){
+    FILE *arq = fopen(arquivo,"r");
+    if(arq == NULL)
+        printf("Erro ao abrir arquivo\n");
+    for(int tempo = 0; tempo < tempomax ; tempo++){
+    }
+}
+
 void LimpaTela() {
     for (int i = 10; i < 28; i++) {
         gotoxy(32, i);
@@ -43,19 +75,28 @@ void FormPrincipal(void) {
 
 int main(void){
     TpMedico *lista = NULL;
-    
-    printf("Inserindo 3 medicos...\n");
-    lista = InserirMedico(lista);
-    lista = InserirMedico(lista);
-    lista = InserirMedico(lista);
-    
-    ExibirMedicos(lista);
-    
-    printf("Inserindo mais 2...\n");
-    lista = InserirMedico(lista);
-    lista = InserirMedico(lista);
-    
-    ExibirMedicos(lista);
+    char arquivo[30] = "Arquivo.txt";
+    TpDesc d;
+
+    InicializarDesc(d); 
+
+    printf("Lendo arquivo...\n\n");
+    LerArquivo(d, arquivo);
+
+    printf("\n=== RESULTADOS ===\n");
+    printf("Total Vermelho: %d\n", d.qtdverm);
+    printf("Total Amarelo : %d\n", d.qtdamar);
+    printf("Total Verde   : %d\n", d.qtdverde);
+    printf("Total geral   : %d\n\n", d.totalpacientes);
+
+    printf("\n--- FILA VERMELHA ---\n");
+    ExibirFila(d.inicioverm);
+
+    printf("\n--- FILA AMARELA ---\n");
+    ExibirFila(d.inicioamar);
+
+    printf("\n--- FILA VERDE ---\n");
+    ExibirFila(d.inicioverde);
     getche();
     return 0;
 }
