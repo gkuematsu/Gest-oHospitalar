@@ -14,6 +14,10 @@ struct TpMedico{
 	TpPaciente *pac;
 };
 
+void InicializarMed(TpMedico *med){
+    med->ant = med->prox = NULL;
+}
+
 TpMedico *NovoMed(){
     TpMedico *med = new TpMedico;
     med->prox = NULL;
@@ -60,6 +64,17 @@ void ReorganizaID(TpMedico *med){
     }
 }
 
+int MedicoOcupado(TpMedico *med, int id){
+    TpMedico *lista = med;
+    while(lista != NULL){
+        if(lista->id == id){
+            return lista->ocupado;
+        }
+        lista = lista->prox;
+    }
+    return 0;
+}
+
 TpMedico *RemoverMedico(TpMedico *med, int id){
     if(med->id == id){
         TpMedico *aux = med;
@@ -69,13 +84,18 @@ TpMedico *RemoverMedico(TpMedico *med, int id){
         TpMedico *p = med->prox;
         while(p != NULL && p->id != id)
             p=p->prox;
-        if(p->prox == NULL){
-            p->ant->prox = NULL;
+
+        if(p != NULL){
+            if(p->prox == NULL){
+                p->ant->prox = NULL;
+                delete(p);
+            }
+            else{
+            p->prox->ant = p->ant;
+            p->ant->prox = p->prox;
             delete(p);
+            }
         }
-        p->prox->ant = p->ant;
-        p->ant->prox = p->prox;
-        delete(p);
     }
     ReorganizaID(med);
     return med;
@@ -91,8 +111,7 @@ void ExibirMedicos(TpMedico *inicio){
     printf("Medicos na lista:\n");
 
     while(p != NULL){
-        printf("ID: %d | Ocupado: %d | Total Atendidos: %d\n",
-                p->id, p->ocupado, p->total);
+        printf("ID: %d | Ocupado: %d \n", p->id, p->ocupado);
         p = p->prox;
     }
 

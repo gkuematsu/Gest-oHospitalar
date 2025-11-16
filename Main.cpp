@@ -8,36 +8,36 @@
 #include "TadMedico.h"
 #include "TadPaciente.h"
 
-void LerArquivo(TpDesc &d,char arquivo[30]){
-    FILE *arq = fopen(arquivo,"r");
-    if(arq == NULL)
-        printf("Erro ao abrir arquivo\n");
-   else{
-        TpPaciente reg;
-        fscanf(arq, "%[^;];%d;%[^;];%[^;];%s\n",reg.classificacao,&reg.tempo,reg.nome,reg.queixa,reg.data);
-        while(!feof(arq)){
-            int sorteio = rand() % 2;
-            if(sorteio == 1){
-                TpPaciente *pac = NovoPaciente(reg);
-                if(strcmp(reg.classificacao,"Vermelho") == 0)
-                    VermelhoFim(d,pac);
-                else if(strcmp(reg.classificacao,"Amarelo") == 0)
-                    AmareloFim(d,pac);
-                    else
-                    VerdeFim(d,pac);
-                fscanf(arq, "%[^;];%d;%[^;];%[^;];%s\n",reg.classificacao,&reg.tempo,reg.nome,reg.queixa,reg.data);  
-            }     
-        }
-   }   
-    fclose(arq);
-}
 
-void Simular(TpDesc &d, TpMedico *lista, char arquivo[30], int tempomax){
-    FILE *arq = fopen(arquivo,"r");
-    if(arq == NULL)
-        printf("Erro ao abrir arquivo\n");
-    for(int tempo = 0; tempo < tempomax ; tempo++){
-    }
+TpMedico *Pausar(TpMedico *lista){
+    char op;
+    do{
+        printf("-=-=-=-PAUSE-=-=-=-\n");
+        printf("[A]- Adicionar mais um medico\n");
+        printf("[B]- Remover um médico\n");
+        printf("[C]- Continuar simulação\n");
+        fflush(stdin);
+        op = toupper(getch());
+            switch(op){
+                case 'A':
+                    lista = InserirMedico(lista);
+                    printf("Medico adicionado...");
+                    Sleep(100);
+                    break;
+                case 'B':
+                    int codremove;
+                    printf("Digite o id para remoção: ");
+                    scanf("%d",&codremove);
+                    if(MedicoOcupado(lista,codremove))
+                        printf("Medico %d em atendimento, não é possivel remove-lo\n",codremove);
+                    else{
+                        lista = RemoverMedico(lista,codremove);
+                    }
+                    break;
+            }
+        
+    }while(op != 'C');
+    return lista;
 }
 
 void LimpaTela() {
@@ -46,6 +46,103 @@ void LimpaTela() {
         printf("                                                                             ");
     }
 }
+
+void Simular(int tempomax, int qtd, char arquivo[30]){
+    TpDesc d;
+    TpMedico *lista = NULL;
+    InicializarDesc(d);
+    
+    for(int i = 0; i < qtd; i++){
+        lista = InserirMedico(lista);
+    }
+
+    FILE *arq = fopen(arquivo, "r");
+    if(arq == NULL){
+        printf("Erro ao abrir arquivo!\n");
+    }
+
+    TpPaciente reg;
+    int flag = 0;       
+    int tempo = 0;      
+    int fimArquivo = 0; 
+
+    while(tempo < tempomax){
+        // PAUSE
+        if(kbhit()){
+            lista = Pausar(lista);
+            fflush(stdin);
+        }
+
+        // ARQUIVO E INSERCAO
+        if(!fimArquivo){
+            if(flag == 0){
+                if(fscanf(arq, "%[^;];%d;%[^;];%[^;];%s\n",
+                          reg.classificacao, &reg.tempo, reg.nome, reg.queixa, reg.data) == EOF){
+                    fimArquivo = 1; 
+                } else {
+                    flag = 1; 
+                }
+            }
+
+            if(flag == 1){
+                int sorteio = rand() % 2;
+                if(sorteio == 1){
+                    TpPaciente *pac = NovoPaciente(reg);
+                    if(strcmp(reg.classificacao, "Vermelho") == 0)
+                        VermelhoFim(d, pac);
+                    else if(strcmp(reg.classificacao, "Amarelo") == 0)
+                        AmareloFim(d, pac);
+                    else
+                        VerdeFim(d, pac);
+
+                    flag = 0; 
+                }
+            }
+        }
+
+        // MEDICOS
+        TpMedico *m = lista;
+        while(m != NULL){
+            if(m->ocupado == 0){ // medico livre
+                TpPaciente *pac = NULL;
+                if(!VermelhoVazia(d))
+                    pac = RetirarVerm(d);
+                else if(!AmareloVazia(d))
+                    pac = RetirarAmar(d);
+                else if(!VerdeVazia(d))
+                    pac = RetirarVerde(d);
+
+                if(pac != NULL){
+                    m->pac = pac;
+                    m->ocupado = 1;
+                    m->tempomed = pac->tempo; 
+                    pac->tempochego = tempo;   
+                }
+            } else { 
+                m->tempomed--;
+                if(m->tempomed <= 0){ 
+                    m->ocupado = 0;
+                    delete(m->pac);
+                    m->pac = NULL;
+                }
+            }
+            m = m->prox;
+        }
+
+        // impressao
+        LimpaTela();
+        printf("Tempo: %d\n", tempo);
+        printf("Fila Vermelha: %d | Amarela: %d | Verde: %d\n", d.qtdverm, d.qtdamar, d.qtdverde);
+        ExibirMedicos(lista);
+        printf("\n");
+
+        Sleep(1000);
+        tempo++;
+    }
+
+    fclose(arq);
+}
+
 
 void Moldura(int CI, int LI, int CF, int LF, int Frente) {
     textcolor(Frente);
@@ -74,29 +171,10 @@ void FormPrincipal(void) {
 }
 
 int main(void){
+	TpDesc d;
     TpMedico *lista = NULL;
     char arquivo[30] = "Arquivo.txt";
-    TpDesc d;
-
-    InicializarDesc(d); 
-
-    printf("Lendo arquivo...\n\n");
-    LerArquivo(d, arquivo);
-
-    printf("\n=== RESULTADOS ===\n");
-    printf("Total Vermelho: %d\n", d.qtdverm);
-    printf("Total Amarelo : %d\n", d.qtdamar);
-    printf("Total Verde   : %d\n", d.qtdverde);
-    printf("Total geral   : %d\n\n", d.totalpacientes);
-
-    printf("\n--- FILA VERMELHA ---\n");
-    ExibirFila(d.inicioverm);
-
-    printf("\n--- FILA AMARELA ---\n");
-    ExibirFila(d.inicioamar);
-
-    printf("\n--- FILA VERDE ---\n");
-    ExibirFila(d.inicioverde);
+    Simular(100,3,arquivo);
     getche();
     return 0;
 }

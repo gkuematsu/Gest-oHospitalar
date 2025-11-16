@@ -9,7 +9,6 @@
 #include <ctype.h>
 #include <time.h>
 
-
 struct TpPaciente{
 	char classificacao[50],nome[50],queixa[50],data[30]; 
 	int tempo;
