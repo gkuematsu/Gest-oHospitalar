@@ -132,13 +132,5 @@ TpPaciente *RetirarVerde(TpDesc &d){
     return aux;
 }
 
-void ExibirFila(TpPaciente *inicio){
-    TpPaciente *p = inicio;
-    while(p != NULL){
-        printf("Classificação: %s | Nome: %s | Tempo: %d | Queixa: %s | Data: %s\n",
-               p->classificacao, p->nome, p->tempo, p->queixa, p->data);
-        p = p->prox;
-    }
-}
 
 #endif

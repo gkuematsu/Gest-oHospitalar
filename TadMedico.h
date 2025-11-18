@@ -14,8 +14,20 @@ struct TpMedico{
 	TpPaciente *pac;
 };
 
+struct TpEstatisticas{
+    int contverm, contamar, contverde;
+    int somaverm, somaamar, somaverde;
+    int qtdverm, qtdamar, qtdverde;
+};
+
 void InicializarMed(TpMedico *med){
     med->ant = med->prox = NULL;
+}
+
+void InicializarEst(TpEstatisticas est){
+    est.contverm = est.contamar = est.contverde = 0;
+    est.somaverm = est.somaamar = est.somaverde = 0;
+    est.qtdverm = est.qtdamar = est.qtdverde = 0;
 }
 
 TpMedico *NovoMed(){
@@ -102,20 +114,30 @@ TpMedico *RemoverMedico(TpMedico *med, int id){
 }
 
 void ExibirMedicos(TpMedico *inicio){
+    int i = 10;
     if(inicio == NULL){
-        printf("Lista vazia.\n");
+        gotoxy(33,i); textcolor(13); printf("Lista vazia.\n");
         return;
     }
 
     TpMedico *p = inicio;
-    printf("Medicos na lista:\n");
-
+    gotoxy(33,i++);textcolor(9);printf("Medicos na lista:\n");
+    gotoxy(33, i++);textcolor(11); printf("ID  |   STATUS   | PACIENTE\n");
     while(p != NULL){
-        printf("ID: %d | Ocupado: %d \n", p->id, p->ocupado);
+     
+        gotoxy(33,i++); textcolor(13); printf("%-3d |", p->id);
+        if (p->ocupado == 1)
+            printf("%-9s | ", "OCUPADO");
+        else
+            printf("%-9s | ", "LIVRE");
+        if (p->ocupado == 1 && p->pac != NULL)
+            printf("%s", p->pac->nome);
+        else
+            printf("Nenhum");
+
         p = p->prox;
     }
 
-    printf("\n");
 }
 
 #endif
