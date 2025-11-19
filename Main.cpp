@@ -35,31 +35,55 @@ void FormPrincipal(void) {
     Moldura(31, 9, 109, 28, 4);
 }
 
+void LimpaPausa(){
+    gotoxy(13, 20);printf("           ");
+    gotoxy(13, 22);printf("               ");
+    gotoxy(13, 23);printf("               ");
+    gotoxy(13, 24);printf("               ");
+}
+int ContaMedicos(TpMedico *lista){
+    int qtd = 0;
+    while(lista != NULL){
+        qtd++;
+        lista= lista->prox;
+    }
+    return qtd;
+}
 TpMedico *Pausar(TpMedico *lista){
     char op;
     do{
-        printf("-=-=-=-PAUSE-=-=-=-");
-        printf("[A]- Adicionar mais um medico");
-        printf("[B]- Remover um médico");
-        printf("[C]- Continuar simulação");
+        textcolor(1); gotoxy(13, 20);printf("-PAUSE-");
+        textcolor(2); gotoxy(13, 22);printf("[A]- Adicionar");
+        textcolor(12); gotoxy(13, 23);printf("[B]- Remover");
+        textcolor(14); gotoxy(13, 24);printf("[C]- Continuar");
         fflush(stdin);
         op = toupper(getch());
             switch(op){
                 case 'A':
-                    lista = InserirMedico(lista);
-                    printf("Medico adicionado...");
-                    Sleep(100);
+                    if(ContaMedicos(lista) >= 15){
+                        textcolor(4);gotoxy(66,13);printf("Nao e possivel adicionar mais!(max 15)");
+                        Sleep(100);
+                    }else{
+                        lista = InserirMedico(lista);
+                        textcolor(10); gotoxy(85, 13);printf("Medico adicionado...");
+                        Sleep(100);
+                    }
                     break;
                 case 'B':
                     int codremove;
-                    printf("Digite o id para remoção: ");
+                    textcolor(4); gotoxy(79, 13);
+                    printf("Digite o id para remocao: ");
                     scanf("%d",&codremove);
+                    textcolor(4); gotoxy(66, 24);
                     if(MedicoOcupado(lista,codremove))
-                        printf("Medico %d em atendimento, não é possivel remove-lo\n",codremove);
+                        printf("Medico %d atendendo,nao e possivel remover",codremove);
                     else{
                         lista = RemoverMedico(lista,codremove);
                     }
                     break;
+                case 'C':
+                    LimpaPausa();
+
             }
         
     }while(op != 'C');
@@ -68,7 +92,7 @@ TpMedico *Pausar(TpMedico *lista){
 
 float Calculo(float soma, int qtd){
     if(qtd == 0) 
-        return 0;
+        return 0.0;
     return soma / qtd;
 }
 
@@ -86,7 +110,6 @@ void GerarRelatorio(TpMedico *lista,TpDesc d, TpEstatisticas est){
     gotoxy(x, y); textcolor(14); printf(" - Amarelo : %d", est.contamar);
     y++;
     gotoxy(x, y); textcolor(10); printf(" - Verde   : %d", est.contverde);
-
     y += 2;
     gotoxy(x, y); textcolor(15); printf("2) Tempo medio de espera:");
     y++;
@@ -266,10 +289,43 @@ void Simular(int tempomax, int qtd, char arquivo[30]){
 
 int main(void){
     FormPrincipal();
+    gotoxy(50,18); textcolor(2);
+    printf("GABRIEL KENJI UEMATSU - 262320290");
+    Sleep(1000);
+    int qtd,tempo;
 	TpDesc d;
     TpMedico *lista = NULL;
+    FormPrincipal();
     char arquivo[30] = "Arquivo.txt";
-    Simular(3,15,arquivo); //15 limite
+    gotoxy(33,10); textcolor(2);
+    printf("Digite a quantidade de medicos (1 a 15): ");
+    scanf("%d",&qtd);
+    while(qtd <= 0 || qtd > 15){
+        gotoxy(33,13); textcolor(4);
+        printf("Quantidade Invalida, tente novamente!");
+        Sleep(1000);
+        FormPrincipal();
+        gotoxy(33,10); textcolor(2);
+        printf("Digite a quantidade de medicos (1 a 15): ");
+        scanf("%d",&qtd);
+    }
+
+    FormPrincipal();
+    gotoxy(33,10); textcolor(14);
+    printf("Digite o tempo em segundos: ");
+    scanf("%d",&tempo);
+    while(tempo <= 0){
+        gotoxy(33,13); textcolor(4);
+        printf("Quantidade Invalida, tente novamente!");
+        Sleep(1000);
+        FormPrincipal();
+        gotoxy(33,10); textcolor(14);
+        printf("Digite o tempo em segundos: ");
+        scanf("%d",&tempo);
+    }
+    system("cls");
+    FormPrincipal();
+    Simular(tempo,qtd,arquivo); 
     getche();
     return 0;
 }

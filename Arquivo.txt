@@ -214,3 +214,1048 @@ Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
 Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
 Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
 Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30
+Vermelho;15;Ana Souza;Parada Respiratória;2025-11-01
+Amarelo;8;João Silva;Fratura Exposta;2025-11-01
+Verde;3;Pedro Costa;Resfriado Comum;2025-11-02
+Vermelho;20;Maria Lima;Trauma Múltiplo;2025-11-02
+Amarelo;12;Lucas Gomes;Dor Abdominal Forte;2025-11-03
+Verde;2;Sofia Reis;Troca de Curativo;2025-11-03
+Vermelho;18;Ricardo Neves;Hemorragia Interna;2025-11-04
+Amarelo;10;Camila Alves;Suspeita de Infecção;2025-11-04
+Verde;5;Bruno Oliveira;Dor de Cabeça Leve;2025-11-05
+Vermelho;25;Gabriela Dias;Choque Anafilático;2025-11-05
+Amarelo;7;Felipe Mendes;Queimadura de 2º Grau;2025-11-06
+Verde;4;Helena Nunes;Febre Baixa;2025-11-06
+Vermelho;17;Laura Bastos;Parada Respiratória;2025-11-25
+Amarelo;10;Bruno Carvalho;Fratura Exposta;2025-11-25
+Verde;4;Miguel Pereira;Resfriado Comum;2025-11-26
+Vermelho;22;Clara Vasconcelos;Trauma Múltiplo;2025-11-26
+Amarelo;11;Thiago Oliveira;Dor Abdominal Forte;2025-11-27
+Verde;3;Beatriz Lima;Troca de Curativo;2025-11-27
+Vermelho;20;Roberto Almeida;Hemorragia Interna;2025-11-28
+Amarelo;9;Mariana Costa;Suspeita de Infecção;2025-11-28
+Verde;4;Enzo Gabriel;Dor de Cabeça Leve;2025-11-29
+Vermelho;23;Isabela Gomes;Choque Anafilático;2025-11-29
+Amarelo;8;Davi Lucas;Queimadura de 2º Grau;2025-11-30
+Verde;5;Livia Matos;Febre Baixa;2025-11-30

@@ -24,7 +24,7 @@ void InicializarMed(TpMedico *med){
     med->ant = med->prox = NULL;
 }
 
-void InicializarEst(TpEstatisticas est){
+void InicializarEst(TpEstatisticas &est){
     est.contverm = est.contamar = est.contverde = 0;
     est.somaverm = est.somaamar = est.somaverde = 0;
     est.qtdverm = est.qtdamar = est.qtdverde = 0;
