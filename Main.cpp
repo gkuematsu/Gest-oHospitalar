@@ -78,7 +78,10 @@ TpMedico *Pausar(TpMedico *lista){
                     if(MedicoOcupado(lista,codremove))
                         printf("Medico %d atendendo,nao e possivel remover",codremove);
                     else{
+                        textcolor(10); gotoxy(66, 26);
+                        printf("Removido com sucesso!");
                         lista = RemoverMedico(lista,codremove);
+                        Sleep(100);
                     }
                     break;
                 case 'C':
@@ -274,6 +277,8 @@ void Simular(int tempomax, int qtd, char arquivo[30]){
 
         // impressao
         LimpaTela();
+        gotoxy(63,27); textcolor(9);
+        printf("Para pausar, pressione qualquer tecla");
         ExibirPainel(tempo,d);
         ExibirMedicos(lista);
         printf("\n");
